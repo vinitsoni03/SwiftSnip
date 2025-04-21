@@ -17,6 +17,7 @@ Whether you're a developer looking to share code, a student organizing snippets 
 🧠 Smart filtering, tagging, and snippet expiration
 
 🛠 Tech Stack
+
 Frontend: React + Vite + TypeScript
 
 Styling: TailwindCSS
@@ -28,6 +29,7 @@ Backend: Supabase (Auth + Database)
 Code Optimization: Lazy Loading, Code Splitting, Memoization
 
 👥 Project Team
+
 Harsh Bhardwaj (E23CSEU0427) – Lead Developer
 
 Vinit Soni (E23CSEU0437) – UI Developer & Content Tester
